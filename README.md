@@ -11,7 +11,7 @@ https://github.com/sudhanvabharadwaj/End-to-End-Kidney-Diesease-Classification-P
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n kidney-cnn python=3.8 -y
+conda create -n kidney-cnn python=3.9 -y
 ```
 
 ```bash
