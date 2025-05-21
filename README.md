@@ -31,5 +31,5 @@ python app.py
 
 Now,
 ```bash
-open up you local host and port
+Open up your local host and port
 ```
